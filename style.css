@@ -1,0 +1,30 @@
+h1 {
+    color: #ff0000;
+    padding:100px;
+}
+
+* {
+    border:  dashed;
+    border-radius:50px;
+    border-color: #ff0
+}
+
+.header {
+    background-color: #0ff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer {
+    display:flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #808080
+}
